@@ -1,4 +1,16 @@
 {
     "ServerKind": 0,
-    "OrganizationName": "Yunshan"
+    "OrganizationName": "Yunshan",
+    "ClassPlanSource": {
+        "Value": "https://raw.githubusercontent.com/NanGua-QWQ/ClassIsland75/master/classplans.json",
+        "Version": 1
+    },
+    "TimeLayoutSource": {
+        "Value": "https://raw.githubusercontent.com/NanGua-QWQ/ClassIsland75/master/master/timelayouts.json",
+        "Version": 1
+    },
+    "SubjectsSource": {
+        "Value": "https://raw.githubusercontent.com/NanGua-QWQ/ClassIsland75/master/master/subjects.json",
+        "Version": 1
+    }
 }
