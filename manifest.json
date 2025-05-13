@@ -2,15 +2,15 @@
     "ServerKind": 0,
     "OrganizationName": "Yunshan",
     "ClassPlanSource": {
-        "Value": "https://raw.githubusercontent.com/NanGua-QWQ/ClassIsland75/master/classplans.json",
+        "Value": "https://raw.githubusercontent.com/NanGua-QWQ/ClassIsland75/master/ClassPlans.json",
         "Version": 1
     },
     "TimeLayoutSource": {
-        "Value": "https://raw.githubusercontent.com/NanGua-QWQ/ClassIsland75/master/master/timelayouts.json",
+        "Value": "https://raw.githubusercontent.com/NanGua-QWQ/ClassIsland75/master/TimeLayouts.json",
         "Version": 1
     },
     "SubjectsSource": {
-        "Value": "https://raw.githubusercontent.com/NanGua-QWQ/ClassIsland75/master/master/subjects.json",
+        "Value": "https://raw.githubusercontent.com/NanGua-QWQ/ClassIsland75/master/Subjects.json",
         "Version": 1
     }
 }
